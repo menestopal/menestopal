@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @menestopal
-- 👀 I’m interested in ...
+- 👀 I’m interested in mo-graph, data vizualisation, 3D design.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me menestopal@gmail.com
